@@ -1,16 +1,6 @@
-# contact_form
+# Contact Form
 
-A new Flutter project.
+Learn how to build a Contact Form in Flutter. A free and easy way to send emails without a backend which works for Android, iOS and Web too.
+Read the article here: [Send Emails without Backend in Flutter](https://medium.com/dsc-ghrce/send-emails-without-backend-in-flutter-48d0c506ab4c)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![working demo](https://github.com/Aaliya-Ali/contact_form_flutter/blob/master/working_demo.gif)
